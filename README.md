@@ -1,6 +1,6 @@
 # ClosingStore
 
-Учебный интернет-магазин одежды: React + TypeScript + Vite, Material UI, Redux Toolkit, React Router, Axios.
+Интернет-магазин одежды: React + TypeScript + Vite, Material UI, Redux Toolkit, React Router, Axios.
 Fake API: https://fakestoreapi.com.
 
 ## Запуск
